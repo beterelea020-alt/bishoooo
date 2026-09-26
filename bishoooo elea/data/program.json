@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "clientId": "bishoooo_5050a5",
+  "programTitle": "Body Recomposition",
+  "days": [
+    {
+      "dayId": "upper_body_e4b92a",
+      "title": "Upper Body",
+      "subtitle": "الجزء العلوي من الجسم",
+      "sortOrder": 0,
+      "exercises": [
+        {
+          "exerciseId": "chest_press_8cb7fb",
+          "name": "Chest Press",
+          "muscle": "Chest",
+          "description": "",
+          "sets": 3,
+          "targetReps": "8-12",
+          "restTime": "90 ثانيه",
+          "image": "assets/exercises/chest_press_8cb7fb_image.png",
+          "video": "",
+          "sortOrder": 0
+        },
+        {
+          "exerciseId": "lat_pulldown_0c870c",
+          "name": "Lat Pulldown",
+          "muscle": "Lat",
+          "description": "",
+          "sets": 3,
+          "targetReps": "8-12",
+          "restTime": "90 ثانيه",
+          "image": "assets/exercises/lat_pulldown_0c870c_image.jpeg",
+          "video": "",
+          "sortOrder": 1
+        },
+        {
+          "exerciseId": "seated_row_792ea9",
+          "name": "Seated Row",
+          "muscle": "Row",
+          "description": "",
+          "sets": 3,
+          "targetReps": "8-12",
+          "restTime": "90 ثانيه",
+          "image": "assets/exercises/seated_row_792ea9_image.jpeg",
+          "video": "",
+          "sortOrder": 2
+        },
+        {
+          "exerciseId": "shoulder_press_870afb",
+          "name": "Shoulder Press",
+          "muscle": "Shoulder",
+          "description": "",
+          "sets": 3,
+          "targetReps": "8-12",
+          "restTime": "90 ثانيه",
+          "image": "assets/exercises/shoulder_press_870afb_image.png",
+          "video": "",
+          "sortOrder": 3
+        },
+        {
+          "exerciseId": "dumbbell_biceps_curl_544d98",
+          "name": "Dumbbell Biceps Curl",
+          "muscle": "Biceps Curl",
+          "description": "",
+          "sets": 2,
+          "targetReps": "10-15",
+          "restTime": "90 ثانيه",
+          "image": "assets/exercises/dumbbell_biceps_curl_544d98_image.jpeg",
+          "video": "",
+          "sortOrder": 4
+        },
+        {
+          "exerciseId": "triceps_pushdown_f7e6d2",
+          "name": "Triceps Pushdown",
+          "muscle": "Triceps",
+          "description": "",
+          "sets": 2,
+          "targetReps": "10-15",
+          "restTime": "90 ثانيه",
+          "image": "assets/exercises/triceps_pushdown_f7e6d2_image.jpeg",
+          "video": "",
+          "sortOrder": 5
+        }
+      ]
+    },
+    {
+      "dayId": "lower_body_7ea9b9",
+      "title": "Lower Body",
+      "subtitle": "الجزء السفلي الجسم",
+      "sortOrder": 1,
+      "exercises": [
+        {
+          "exerciseId": "squat_3fc639",
+          "name": "Squat",
+          "muscle": "Leg",
+          "description": "",
+          "sets": 3,
+          "targetReps": "8-12",
+          "restTime": "90ثانيه",
+          "image": "assets/exercises/squat_3fc639_image.jpeg",
+          "video": "",
+          "sortOrder": 0
+        },
+        {
+          "exerciseId": "romanian_deadlift_535588",
+          "name": "Romanian Deadlift",
+          "muscle": "",
+          "description": "",
+          "sets": 3,
+          "targetReps": "8-12",
+          "restTime": "90 ثانيه",
+          "image": "assets/exercises/romanian_deadlift_535588_image.jpeg",
+          "video": "",
+          "sortOrder": 1
+        },
+        {
+          "exerciseId": "leg_extension_8327d1",
+          "name": "Leg Extension",
+          "muscle": "Leg Extension",
+          "description": "",
+          "sets": 3,
+          "targetReps": "8-12",
+          "restTime": "90 ثانيه",
+          "image": "assets/exercises/leg_extension_8327d1_image.png",
+          "video": "",
+          "sortOrder": 2
+        },
+        {
+          "exerciseId": "leg_curl_8b253b",
+          "name": "Leg Curl",
+          "muscle": "Leg Curl",
+          "description": "",
+          "sets": 3,
+          "targetReps": "8-12",
+          "restTime": "90 ثانيه",
+          "image": "assets/exercises/leg_curl_8b253b_image.jpeg",
+          "video": "",
+          "sortOrder": 3
+        },
+        {
+          "exerciseId": "calf_raises_6d4fb3",
+          "name": "Calf Raises",
+          "muscle": "Calf Raises",
+          "description": "",
+          "sets": 3,
+          "targetReps": "8-12",
+          "restTime": "90 ثانيه",
+          "image": "assets/exercises/calf_raises_6d4fb3_image.jpeg",
+          "video": "",
+          "sortOrder": 4
+        },
+        {
+          "exerciseId": "plank_54257b",
+          "name": "Plank",
+          "muscle": "الكور",
+          "description": "",
+          "sets": 3,
+          "targetReps": "8-12",
+          "restTime": "90 ثانيه",
+          "image": "",
+          "video": "",
+          "sortOrder": 5
+        }
+      ]
+    },
+    {
+      "dayId": "full_body_564bd2",
+      "title": "Full Body",
+      "subtitle": "الجسم كلو مره اخري",
+      "sortOrder": 2,
+      "exercises": [
+        {
+          "exerciseId": "leg_press_71d22d",
+          "name": "Leg Press",
+          "muscle": "Leg Press",
+          "description": "",
+          "sets": 3,
+          "targetReps": "8-12",
+          "restTime": "90 ثانيه",
+          "image": "assets/exercises/leg_press_71d22d_image.jpeg",
+          "video": "",
+          "sortOrder": 0
+        },
+        {
+          "exerciseId": "incline_dumbbell_press_b1544a",
+          "name": "Incline Dumbbell Press",
+          "muscle": "Incline Dumbbell Press",
+          "description": "",
+          "sets": 3,
+          "targetReps": "8-12",
+          "restTime": "90 ثانيه",
+          "image": "assets/exercises/incline_dumbbell_press_b1544a_image.jpeg",
+          "video": "",
+          "sortOrder": 1
+        },
+        {
+          "exerciseId": "lat_pulldown_2df4be",
+          "name": "Lat Pulldown",
+          "muscle": "Lat",
+          "description": "",
+          "sets": 3,
+          "targetReps": "8-12",
+          "restTime": "90 ثانيه",
+          "image": "assets/exercises/lat_pulldown_2df4be_image.jpeg",
+          "video": "",
+          "sortOrder": 2
+        },
+        {
+          "exerciseId": "lateral_raises_8c5229",
+          "name": "Lateral Raises",
+          "muscle": "",
+          "description": "",
+          "sets": 3,
+          "targetReps": "8-12",
+          "restTime": "90 ثانيه",
+          "image": "assets/exercises/lateral_raises_8c5229_image.jpeg",
+          "video": "",
+          "sortOrder": 3
+        },
+        {
+          "exerciseId": "biceps_curl_aa7d54",
+          "name": "Biceps Curl",
+          "muscle": "Biceps Curl",
+          "description": "",
+          "sets": 3,
+          "targetReps": "8-12",
+          "restTime": "90 ثانيه",
+          "image": "assets/exercises/biceps_curl_aa7d54_image.jpeg",
+          "video": "",
+          "sortOrder": 4
+        },
+        {
+          "exerciseId": "triceps_pushdown_b26c52",
+          "name": "Triceps Pushdown",
+          "muscle": "Triceps Pushdown",
+          "description": "",
+          "sets": 3,
+          "targetReps": "8-12",
+          "restTime": "120 ثانيه",
+          "image": "assets/exercises/triceps_pushdown_b26c52_image.jpeg",
+          "video": "",
+          "sortOrder": 5
+        }
+      ]
+    }
+  ]
+}

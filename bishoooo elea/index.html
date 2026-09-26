@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#2563eb">
+  <title>برنامج التمرين</title>
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<div class="app">
+  <header class="top">
+    <div class="brand">
+      <div class="logo" id="logo">GY</div>
+      <div>
+        <h1 id="brandTitle">برنامج التمرين</h1>
+        <p id="brandSubtitle">متابعة التمرين اليومية</p>
+      </div>
+    </div>
+    <div class="top-meta">
+      <div class="date" id="date"></div>
+      <div class="profile" id="profileImage"><span id="athleteName"></span></div>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div>
+      <small id="dayLabel">اليوم</small>
+      <h2 id="dayTitle"></h2>
+      <p id="daySubtitle"></p>
+    </div>
+    <div class="progress">
+      <div class="plabel"><span>إنجاز اليوم</span><strong id="pct">0%</strong></div>
+      <div class="bar"><span id="bar"></span></div>
+    </div>
+  </section>
+
+  <section class="days" id="days"></section>
+
+  <div class="actions">
+    <div>
+      <strong id="sectionTitle"></strong>
+      <div class="updated" id="lastUpdated">الحفظ تلقائي على جهازك</div>
+    </div>
+    <div class="action-buttons">
+      <button class="btn whatsapp" id="whatsappBtn">إرسال تقدّمك على WhatsApp</button>
+      <button class="btn secondary reset" id="resetBtn">حفظ في السجل وبدء يوم جديد</button>
+    </div>
+  </div>
+
+  <main class="list" id="list"></main>
+  <div class="note">الموقع static ولا يحتاج حسابًا أو قاعدة بيانات. الوزن والعدات محفوظة محليًا في نفس المتصفح والجهاز.</div>
+</div>
+<script src="js/migration.js"></script>
+<script src="js/storage.js"></script>
+<script src="js/history.js"></script>
+<script src="js/whatsapp.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
